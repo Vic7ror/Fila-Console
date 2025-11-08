@@ -17,11 +17,8 @@ namespace Restaurante_fila_
             Fila pagamentos = new Fila(100);
             Fila encomendas = new Fila(100);
 
-            Console.WriteLine("1 - Inserção de cliente na fila de pedidos");
-            Console.WriteLine("2 - Remoção de cliente da fila de pedidos");
-            Console.WriteLine("3 - Remoção de cliente da fila de pagamentos");
-            Console.WriteLine("4 - Remoção de cliente da fila de encomendas");
-            Console.WriteLine("5 - Sair");
+            Console.Clear();
+            Console.WriteLine(Menu());
 
             while (opcao != 5)
             {
@@ -35,12 +32,13 @@ namespace Restaurante_fila_
                     }
                     else
                     {
-                        Console.WriteLine();
                         cliente_anterior = COD_cliente;
                         pedidos.Enfileirar(COD_cliente);
+                        Console.Clear();
                         Console.WriteLine("O cliente " + COD_cliente + " foi adicionado à fila de pedidos");
-                        Console.WriteLine();
                         COD_cliente++;
+                        Console.WriteLine();
+                        Console.WriteLine(Menu());
                     }
                 }
                 else if (opcao == 2)
@@ -60,8 +58,10 @@ namespace Restaurante_fila_
                             Console.WriteLine();
                             cliente_anterior = pedidos.Desenfileirar();
                             pagamentos.Enfileirar(cliente_anterior);
+                            Console.Clear();
                             Console.WriteLine("O cliente " + cliente_anterior + " foi removido da fila de pedidos e adicionado à fila de pagamentos.");
                             Console.WriteLine();
+                            Console.WriteLine(Menu());
                         }
                     }
                 }
@@ -82,8 +82,10 @@ namespace Restaurante_fila_
                             Console.WriteLine();
                             cliente_anterior = pagamentos.Desenfileirar();
                             encomendas.Enfileirar(cliente_anterior);
+                            Console.Clear();
                             Console.WriteLine("O cliente " + cliente_anterior + " foi removido da fila de pagamentos e adicionado à fila de encomendas.");
                             Console.WriteLine();
+                            Console.WriteLine(Menu());
                         }
                     }
                 }
@@ -97,11 +99,22 @@ namespace Restaurante_fila_
                     {
                         cliente_anterior = encomendas.Desenfileirar();
                         Console.WriteLine();
+                        Console.Clear();
                         Console.WriteLine("O cliente " + cliente_anterior + " foi removido da fila de encomendas.");
                         Console.WriteLine();
+                        Console.WriteLine(Menu());
                     }
                 }
             }
+        }
+
+        private static string Menu()
+        {
+            return "1 - Inserção de cliente na fila de pedidos\n" +
+                   "2 - Remoção de cliente da fila de pedidos\n" +
+                   "3 - Remoção de cliente da fila de pagamentos\n" +
+                   "4 - Remoção de cliente da fila de encomendas\n" +
+                   "5 - Sair";
         }
     }
 }
