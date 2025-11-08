@@ -39,5 +39,5 @@ Lenguage: C#
 5. Função de remover cliente da fila de encomendas e o remove por completo.
 ![Tela Inicial](/PrintsGifs/RemoveTotal.png)
 
-5. Gif do aplicativo em funcionamento.
+6. Gif do aplicativo em funcionamento.
 ![Tela Inicial](/PrintsGifs/GifFila.gif)
