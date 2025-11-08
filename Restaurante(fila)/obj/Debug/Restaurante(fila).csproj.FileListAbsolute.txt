@@ -1,0 +1,32 @@
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe.config
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).pdb
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).exe
+H:\Visual Studio 2022\Projects\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\bin\Debug\Restaurante(fila).pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).exe
+C:\Users\victr\OneDrive\Documentos\Importantes\Faculdade\Segundo_Período\ALGORÍTIMOS_ESTRUTURA_DE_DADOS\Aulas práticas\Restaurante(fila)\Restaurante(fila)\obj\Debug\Restaurante(fila).pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe.config
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\bin\Debug\Restaurante(fila).exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\bin\Debug\Restaurante(fila).pdb
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.AssemblyReference.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.SuggestedBindingRedirects.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.CoreCompileInputs.cache
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\obj\Debug\Restaurante(fila).exe
+C:\Users\victr\OneDrive\Documentos\Importantes\TRABALHOS\COTEMIG\PRÁTICAS - AED\Prática2 - Fila (restaurante)\Restaurante(fila)\obj\Debug\Restaurante(fila).pdb
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\bin\Debug\Restaurante(fila).exe.config
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\bin\Debug\Restaurante(fila).exe
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\bin\Debug\Restaurante(fila).pdb
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.AssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\obj\Debug\Restaurante(fila).exe.config
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\obj\Debug\Restaurante(fila).csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\obj\Debug\Restaurante(fila).exe
+C:\Users\Victor\Documents\GitHub\Fila-Console\Restaurante(fila)\obj\Debug\Restaurante(fila).pdb
