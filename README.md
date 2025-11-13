@@ -18,7 +18,8 @@ como no seguinte exemplo: “Cliente 9999 foi removido da fila de pagamentos”.
 
 ------------------------------------------------------------------------------------------
 
-Lenguage: C#
+- Aplicativos usados: Visual Studio
+- Lenguage: C#
 
 ------------------------------------------------------------------------------------------
 
