@@ -26,19 +26,19 @@ como no seguinte exemplo: “Cliente 9999 foi removido da fila de pagamentos”.
 # Prints das funções em execução:
 
 1. Tela Inicial de opções para a fila.
-![Tela Inicial](/PrintsGifs/TelaInicial.png)
+ - ![Tela Inicial](/PrintsGifs/TelaInicial.png)
 
 2. Função de inserir cliente na fila de pedidos.
-![Tela Inicial](/PrintsGifs/AdcPedidos.png)
+ - ![Tela Inicial](/PrintsGifs/AdcPedidos.png)
 
 3. Função de inserir cliente na fila de pagamentos e remove da pedidos.
-![Tela Inicial](/PrintsGifs/AdcPagamento.png)
+ - ![Tela Inicial](/PrintsGifs/AdcPagamento.png)
 
 4. Função de inserir cliente na fila de encomendas e remove da pagamentos.
-![Tela Inicial](/PrintsGifs/AdcEncomenda.png)
+ - ![Tela Inicial](/PrintsGifs/AdcEncomenda.png)
 
 5. Função de remover cliente da fila de encomendas e o remove por completo.
-![Tela Inicial](/PrintsGifs/RemoveTotal.png)
+ - ![Tela Inicial](/PrintsGifs/RemoveTotal.png)
 
 6. Gif do aplicativo em funcionamento.
-![Tela Inicial](/PrintsGifs/GifFila.gif)
+ - ![Tela Inicial](/PrintsGifs/GifFila.gif)
